@@ -49,7 +49,7 @@
 </head>
 <body>
   <header>
-    <img src="https://yourusername.github.io/edubee-privacy-policy/edubee-logo.png" alt="Edubee Logo" />
+    <img src="https://yourusername.github.io/edubee-privacy-policy/edubee-logo.png" />
   </header>
   <main>
     <h1>Privacy Policy</h1>
